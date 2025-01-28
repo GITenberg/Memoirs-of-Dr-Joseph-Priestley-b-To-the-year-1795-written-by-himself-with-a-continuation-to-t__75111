@@ -17,6 +17,9 @@ contributor:
     gutenberg_agent_id: '34108'
     url: http://www.gutenberg.org/2009/agents/34108
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Cooper_(poet)
+covers:
+- cover_type: archival
+  image_path: 75111-h/images/cover.jpg
 creator:
   author:
     agent_name: Priestley, Joseph
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '34121'
     url: http://www.gutenberg.org/2009/agents/34121
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75111#Memoirs-of-Dr-Joseph-Priestley-b-To-the-year-1795-written-by-himself-with-a-continuation-to-t_
 gutenberg_issued: '2025-01-14'
 gutenberg_type: Text
 identifiers:
